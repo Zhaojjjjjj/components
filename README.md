@@ -1,2 +1,1 @@
-# compoents
-Custom compoents
+# Custom components
